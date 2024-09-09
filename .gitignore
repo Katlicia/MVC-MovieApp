@@ -1,0 +1,66 @@
+# GitHub'un önerdiği Visual Studio gitignore içeriği
+
+## Visual Studio kullanıcıya özel dosyalar
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## MonoDevelop/Xamarin Studio kullanıcı dosyaları
+*.userprefs
+
+## Derleme sonuçları ve geçici klasörler
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options klasörü
+.vs/
+
+## MSTest test sonuçları
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NuGet paketleri
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## ASP.NET Scaffolding dosyaları
+ScaffoldingReadMe.txt
+
+## .NET Core derleme dosyaları
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Node.js, NCrunch ve diğer ek araçlar
+node_modules/
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+## Yerel tarihçe ve VS kod dosyaları
+.localhistory/
+.vscode/*
+.history/
+
+## Windows Installer dosyaları
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
