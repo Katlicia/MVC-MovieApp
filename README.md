@@ -54,7 +54,6 @@ Contributions are welcome! If you have any ideas, improvements, or suggestions, 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
 - [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core)
 - [Entity Framework Core Documentation](https://docs.microsoft.com/en-us/ef/core/)
 
