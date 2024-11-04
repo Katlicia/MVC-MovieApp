@@ -34,24 +34,24 @@ MvcMovie is a simple ASP.NET Core MVC application that demonstrates the basic fu
 5. Run the application:
    ```bash
    dotnet run
-Project Structure:
+## Project Structure:
 - Controllers/: Contains MVC controllers to handle user requests and return views.
-- Models/: Defines the ViewModels used for data transfer between the UI and controllers, including data validation.
-- Entities/: Defines the data entities that map to the database tables, representing the core data structure of the application.
+- Models/: Defines the data models used by the application, including data validation.
+- Entities/:
 - Views/: Contains the Razor views that render the UI.
 - Data/: Includes the database context used for interacting with the database using Entity Framework Core.
 - wwwroot/: Holds static files like CSS, JavaScript, and images.
   
-Technologies Used:
+## Technologies Used:
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server
 - Bootstrap
   
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas, improvements, or suggestions, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 - [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core)
